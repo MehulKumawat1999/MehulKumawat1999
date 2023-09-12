@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MehulKumawat1999
 - 👀 I’m interested in Frontend development and salesforce development
-- 🌱 I’m currently learning ReactJs, Salesforce development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJs and Salesforce development
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 Reach me -> Mehkumawat@gmail.com
 
 <!---
